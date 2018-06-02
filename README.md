@@ -5,3 +5,6 @@ Useful Website or tools
 
 # Tools
 * [Etcher](https://etcher.io/): Flash OS images to SD cards & USB drives, safely and easily.
+
+# Software
+* [Gdaily](https://www.gdaily.org): Free software sharing.
