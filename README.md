@@ -8,3 +8,6 @@ Useful Website or tools
 
 # Software
 * [Gdaily](https://www.gdaily.org): Free software sharing.
+
+# Security
+* [sqlmap](https://github.com/sqlmapproject/sqlmap): qlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
