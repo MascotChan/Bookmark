@@ -13,7 +13,9 @@ Useful Website or tools
 * [Draw.io](https://www.draw.io): draw.io is an online diagramming web site that built on mxGraph delivers the source in this project.
 * [Qunee for HTML5](http://qunee.com): 一套基于HTML5的网络图组件.
 * [ShareX](https://getsharex.com/): Screen capture, file sharing and productivity tool.
+* [snipaste](https://www.snipaste.com/): Snipaste is not just a snipping tool.It can boost your productivity if you get used to its 'paste'!
 * [Charles](https://www.charlesproxy.com/): Mobile APP debbug.
+* [AutoHotKey](https://www.autohotkey.com/): The ultimate automation scripting language for Windows.
 
 # Software
 * [Gdaily](https://www.gdaily.org): Free software sharing.
