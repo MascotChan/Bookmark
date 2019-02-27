@@ -16,6 +16,7 @@ Useful Website or tools
 * [snipaste](https://www.snipaste.com/): Snipaste is not just a snipping tool.It can boost your productivity if you get used to its 'paste'!
 * [Charles](https://www.charlesproxy.com/): Mobile APP debbug.
 * [AutoHotKey](https://www.autohotkey.com/): The ultimate automation scripting language for Windows.
+* [Motrix](https://motrix.app/): A full-featured download manager.
 
 # Software
 * [Gdaily](https://www.gdaily.org): Free software sharing.
