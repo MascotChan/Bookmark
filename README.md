@@ -17,6 +17,7 @@ Useful Website or tools
 * [Charles](https://www.charlesproxy.com/): Mobile APP debbug.
 * [AutoHotKey](https://www.autohotkey.com/): The ultimate automation scripting language for Windows.
 * [Motrix](https://motrix.app/): A full-featured download manager.
+* [Send](https://send.firefox.com/): Simple, private file sharing from the makers of Firefox.
 
 # Software
 * [Gdaily](https://www.gdaily.org): Free software sharing.
