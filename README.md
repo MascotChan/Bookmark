@@ -30,3 +30,9 @@ Useful Website or tools
 
 # Crack
 * [AMTEmu](https://amtemu.vip/): Universal Adobe Patcher.
+
+# Windows optimization
+
+* [PrimoCache](https://www.kenming.idv.tw/mass-performance_for-physical-hdd_primocache/): Software caching solution that cooperates with physical memory.
+33
+
