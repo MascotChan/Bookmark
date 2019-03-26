@@ -27,3 +27,6 @@ Useful Website or tools
 
 # Web Development
 * [MobSDK](http://www.mob.com/): API,SDK development.
+
+# Crack
+* [AMTEmu](https://amtemu.vip/): Universal Adobe Patcher.
