@@ -18,6 +18,7 @@ Useful Website or tools
 * [AutoHotKey](https://www.autohotkey.com/): The ultimate automation scripting language for Windows.
 * [Motrix](https://motrix.app/): A full-featured download manager.
 * [Send](https://send.firefox.com/): Simple, private file sharing from the makers of Firefox.
+* [Droplt](http://www.dropitproject.com/): Personal Assistant to Automatically Manage Your Files.
 
 # Software
 * [Gdaily](https://www.gdaily.org): Free software sharing.
